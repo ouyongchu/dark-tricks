@@ -10,7 +10,7 @@
 ### 三、从一个案例说起
 
 2015年12月20日，师妹收到一条短信，内容如下：（聪明的你，看到如此具体的时间，应该知道是条线索）
-![](https://raw.githubusercontent.com/ouyongchu/dark-tricks/master/images/message.png)
+![](https://github.com/ouyongchu/dark-tricks/blob/master/images/message.JPG)
 
 发送短信的号码是95555，是否可信？
 
@@ -36,9 +36,9 @@ WTF!! 域名创建时间是2015年12月20日，不就是师妹收到短信的这
 
 看看人家官网域名cmbchina.com信息, 97年创建（假如一个骗子97年注册个域名然后今天才来骗你，那我也没辙了=。=）：
 
-![](https://raw.githubusercontent.com/ouyongchu/dark-tricks/master/images/cmbchina.com.png)
+![](https://raw.githubusercontent.com/ouyongchu/dark-tricks/master/images/cmbchina.com.jpg)
 
 
 另外，使用mac和linux的童鞋，可以在终端直接敲指令whois cmblkg.com，甚至可以找到域名注册者的邮箱、收集、域名所在地等等：
 
-![](https://raw.githubusercontent.com/ouyongchu/dark-tricks/master/images/whois.png)
+![](https://raw.githubusercontent.com/ouyongchu/dark-tricks/master/images/whois.jpg)
